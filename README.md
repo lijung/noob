@@ -1,2 +1,3 @@
 # noob
-just another repository
+只是另一个存储库
+我爱Java
